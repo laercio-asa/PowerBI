@@ -12,7 +12,8 @@ Modelagem de dados: exibição de dados; exibição de relações; criação e g
 
 
 ## Fluxo de funcionamento do Power BI
-
+![fluxo_power_bi](https://github.com/laercio-asa/powerBI/assets/93953739/a3520da8-30b0-4b92-92cb-257cb7ab56c2)
+fonte: https://www.consultoriaexcelencia.com.br/
 
 ## Tipos e funcionalidades de licenças
 
