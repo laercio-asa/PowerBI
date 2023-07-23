@@ -1,6 +1,4 @@
-# Microsoft Power BI
-
-
+# ![image](https://github.com/laercio-asa/powerBI/assets/93953739/4514fa7c-075e-4e4c-a050-d3e20822a414) Microsoft Power BI
 
 ## Um pouco sobre o Power BI
 
