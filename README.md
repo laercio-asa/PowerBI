@@ -6,8 +6,6 @@ O Microsoft Power BI é um serviço de análise de negócios e analise de dados 
 
 O serviço possui a função de carregar visualizações personalizadas através do AppSource, acesso à informação em tempo real e em qualquer aplicativo móvel, uso empresarial, atualização mensal com novas funções e facilidade de uso.
 
-Em 2016, o Power BI era utilizado por 5 milhões de assinantes por todo o mundo.
-
 
 ### Conhecimentos do Curso
 
