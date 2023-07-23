@@ -13,3 +13,12 @@ Modelagem de dados: exibição de dados; exibição de relações; criação e g
 
 ## Fluxo de funcionamento do Power BI
 
+
+## Tipos e funcionalidades de licenças
+
+Há três tipos de licenças do Power BI por usuário
+- gratuita
+- Pro
+- Premium por Usuário (PPU).
+
+O tipo de licença de que um usuário precisa é determinado pelo local em que o conteúdo é armazenado, pelo modo como ele interage com esse conteúdo e pelo uso ou não de recursos Premium pelo conteúdo. O local em que uma organização armazena o conteúdo é determinado pelo tipo de licença de assinatura.
