@@ -2,7 +2,7 @@
 
 ## Um pouco sobre o Power BI
 
-O Microsoft Power BI é um serviço de análise de negócios e analise de dados da desenvolvedora Microsoft lançado a 24 de julho de 2015. O objetivo do Power BI é fornecer visualizações interativas e recursos de business intelligence (BI) em uma interface para que os usuários finais criem relatórios e dashboards personalizados.[1][2] Podendo ser utilizado nas seguintes áreas: Finanças, Engenharia, Tecnologias de Informação, Marketing e Saúde.
+O Microsoft Power BI é um serviço de análise de negócios e analise de dados da desenvolvedora Microsoft lançado a 24 de julho de 2015. O objetivo do Power BI é fornecer visualizações interativas e recursos de business intelligence (BI) em uma interface para que os usuários finais criem relatórios e dashboards personalizados. Podendo ser utilizado nas seguintes áreas: Finanças, Engenharia, Tecnologias de Informação, Marketing e Saúde.
 
 O serviço possui a função de carregar visualizações personalizadas através do AppSource, acesso à informação em tempo real e em qualquer aplicativo móvel, uso empresarial, atualização mensal com novas funções e facilidade de uso.
 
