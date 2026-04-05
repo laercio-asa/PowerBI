@@ -38,7 +38,7 @@ Para mais informações de preços https://powerbi.microsoft.com/pt-br/pricing/
 ## Iniciando um Dashboard
 
 1. Importar dados de alguma base de dados (Excel, WEB, Banco de dados, PDF etc)
-2. Enender os dados
+2. Entender os dados
 3. Tratar os dados
 4. Relacionamento de Dados (Tabelas)
 5. Criar Fórmulas
